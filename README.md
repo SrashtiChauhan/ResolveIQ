@@ -659,6 +659,7 @@ The core design principle is:
 **Team:** PHANTOM CODERS
 
 **Project:** ResolveIQ
+
 **Category:** Agentic AI / Customer Support Automation
 
 ---
